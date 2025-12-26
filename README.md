@@ -161,7 +161,7 @@ This project demonstrates:
 IoT | Embedded Systems | Unity | Qt/QML Developer  
 
 📧 Email: amirsoleimani123456789@gmail.com  
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/amirsoleimani7
 
 ---
 
