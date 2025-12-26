@@ -1,0 +1,13 @@
+go to mosquitto dir and 
+
+(to set up the mosquittot as brocker on port 1883)
+add the liens for mosquitto.conf
+	listener 1883
+	allow_anynoymous true
+
+C:\Program Files\mosquitto>mosquitto -c mosquitto.conf -v
+
+
+then run node-red for the server
+
+
