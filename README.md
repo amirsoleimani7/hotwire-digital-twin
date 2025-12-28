@@ -160,7 +160,7 @@ This project demonstrates:
 **Amirhossein Soleimani**  
 IoT | Embedded Systems | Unity | Qt/QML Developer  
 
-📧 Email: amirsoleimani123456789@gmail.com  
+📧 Email: a.soleimani@ec.iut.ac.ir
 🐙 GitHub: https://github.com/amirsoleimani7
 
 ---
